@@ -150,7 +150,7 @@ jupyter notebook index.ipynb
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard image here if uploading to GitHub)*
+* https://github.com/Raksh56/End-to-End-Data-Analytics/blob/main/Power%20BI/Customer%20Behaviour%20Dashboard.pbix *
 
 ---
 
