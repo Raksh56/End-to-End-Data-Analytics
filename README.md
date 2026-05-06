@@ -1,4 +1,4 @@
-# 📊 Customer Behaviour Analysis Dashboard
+# 📊 Customer Behavior Analysis Dashboard
 
 ## 🚀 Project Overview
 
@@ -26,7 +26,7 @@ The analysis helps understand:
 ## 📂 Project Structure
 
 ```
-📁 End-To-End Data Analysis
+📁 End-to-End Data Analytics
 ├── Excel
 │   └── 📄 data.csv                    # Raw dataset
 ├── Python                    
@@ -34,9 +34,10 @@ The analysis helps understand:
 │   └── 📄 index.ipynb                 # Python analysis notebook
 ├── SQL  
 │   └── 📄 SQL_Queries.sql             # SQL queries used
-└── Power BI            
-    ├── 📄 Dashboard.png               # Power BI dashboard screenshot
-    └── 📄 README.md                   # Project documentation
+├── Power BI            
+│   ├── 📄 Dashboard.mp4               # Power BI dashboard Video
+│   └── 📄 Dashboard.png               # Power BI dashboard Screenshot
+└── 📄 README.md                       # Project documentation
 ```
 
 ---
