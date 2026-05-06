@@ -150,7 +150,7 @@ jupyter notebook index.ipynb
 
 ## 📸 Dashboard Preview
 
-<img width="1409" height="792" alt="image" src="https://github.com/user-attachments/assets/a0514125-f6fa-45bc-96e4-b60d13835d6b" />
+<img width="1409" height="792" alt="image" src="https://github.com/Raksh56/End-to-End-Data-Analytics/blob/main/Power%20BI/Customer_Behavior.mp4" />
 
 
 ---
